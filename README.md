@@ -165,7 +165,7 @@ void detect_ButtonA()
 
 
 ```
-{%youtube V7vD6vChBwM %}
+[{%youtube V7vD6vChBwM %}](https://youtu.be/V7vD6vChBwM)
 
 # 機構設計
 ### 介面(interface)
